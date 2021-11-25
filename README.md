@@ -39,7 +39,7 @@ As from 2019 lockdowns became the new normal, businesses and consumers increasin
 		- [ ] Product Pictures (multiple)
 		- [ ] Lowest price a customer can bid
 		- [ ] A date for the expiration of the bid
-		- [ ] Once the bid date get expired, no customer should be able to bid
+		- [ ] Once the bid date get expired, no customer should be able to bid, if there is no winning bid seller can again open a new bidding for the same product
 		- [ ] Owner can set the criteria of winning bid
 			- [ ] Owner can choose options, either Automated or Manual
 				- [ ] Automated based formula (if marked as selected):
@@ -50,6 +50,10 @@ As from 2019 lockdowns became the new normal, businesses and consumers increasin
 	- [ ] Payment Options
 		- [ ] Owner will get paid through a payment gateway
 			- [ ] Once they received the payment, they will start processing the delivery of the product
+	- [ ] Notification
+		- [ ] Owner will get notification/email on every bids
+	- [ ] Chat
+		- [ ] Owner can do a temporary chat with bidder if they want 
 	- [ ] **Premium User VS Freemium User (an owner can open a free account or can upgrade their account to have extra benefits)**
-		- [ ] Normal users can list at max 10 products within a month where as for premium users it will be unlimited
+		- [ ] Normal users can list at max 10 products within a month whereas for premium users it will be unlimited
 		- [ ] For premium users the platform will boost their product to appear in the first place on the listing page or whenever customers do a search for the product
