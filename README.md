@@ -34,7 +34,7 @@ As from 2019 lockdowns became the new normal, businesses and consumers increasin
 			- [ ] Number of Good reviews, **+3** for each good review, **-3** for each bad review
 			- [ ] Once the number of active points is below **0**, ~~owner will not be able to sell any products~~
 			- [ ] Based on active point the products of the owner will be boosted and the product should appear in the first place within the platform
-	- [ ]  Product listing requirements **[Must to have | 20 points]**
+	- [ ]  Product listing requirements **[Mandatory feature | 20 points]**
 		- [ ] Product Category
 		- [ ] Product Name
 		- [ ] Product Pictures (multiple)
