@@ -1,12 +1,14 @@
 
+
 # Welcome to Leading University Tech Storm v4.0
-Before you start working, just to let you know we strive for quality. It means you can use any language, tools, architecture to show your skills. We will provide requirements that you have to meet to pass, but you can code extra features if you want. Keep in mind don't over overdo for the sake of it: prefer high-quality mandatory requirements over many optional features with lower quality. 
+Before you start working, just to let you know we strive for quality. It means you can use any language, tools, third party services/api, any architecture to show your skills. We will provide requirements that you have to meet to pass, but you can code extra features if you want. Keep in mind don't overdo for the sake of it, prefer high-quality mandatory requirements over many optional features with lower quality. 
 
 We ask you to write a README in Markdown Format and create a presentation of your work to check your communication skills, but also as a chance for you to reason about your implementation decisions. **Please fork this repository and start committing your solution on your fork repository.**
 
 > **Do you wish to provide a non-requirement feature or take a different**
 > **project? We can deal with that, as long as you explain the idea. And if**
-> **that's a good idea, bonus points for you!** :fire::fire::fire:
+> **that's a good idea, you can start implementing it when it is accepted by the judge panel**
+> :fire::fire::fire:
 
 We hope that everything about the task is clear and if not, we are sorry for that and we are more than happy to clarify anything you did not understand. let us know, and we will get back to you as soon as we can! We wish you good luck! 
 
@@ -19,7 +21,7 @@ We hope that everything about the task is clear and if not, we are sorry for tha
 ## :white_check_mark: Marking Criteria **[Total 150 points]**
 - [ ] Features - **[100 points]**
 - [ ] UI/UX - **[25 points]**
-- [ ] Presentation - **[25 points]**
+- [ ] Presentation + Q&A - **[25 points]**
 
 # :bulb: Business Idea
 As from 2019 lockdowns became the new normal, businesses and consumers increasingly went digital, providing and purchasing more goods and services online, raising global e-commerce to **$26.7** trillion! Our aim is to provide them with a platform where things can be easier to sell and consumers can have their product at a reasonable price. We are going to build a platform where every listed product(new/old) can be auctioned! We hope from here no customer has to buy their product with the unreasonable amount and bidding a product will be the new normal!
