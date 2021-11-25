@@ -1,6 +1,6 @@
 
 # Welcome to Leading University Tech Storm v4.0
-Before you start working, we strive for quality. It means you can use any language, tools, architecture to show your skills. We will provide requirements that you have to meet to pass, but you can code extra features if you want. Keep in mind don't over overdo for the sake of it: prefer high-quality mandatory requirements over many optional features with lower quality. 
+Before you start working, just to let you know we strive for quality. It means you can use any language, tools, architecture to show your skills. We will provide requirements that you have to meet to pass, but you can code extra features if you want. Keep in mind don't over overdo for the sake of it: prefer high-quality mandatory requirements over many optional features with lower quality. 
 
 We ask you to write a README in Markdown Format and create a presentation of your work to check your communication skills, but also as a chance for you to reason about your implementation decisions. **Please fork this repository and start committing your solution on your fork repository.**
 
