@@ -11,7 +11,7 @@ We ask you to write a README in Markdown Format and create a presentation of you
 We hope that everything about the task is clear and if not, we are sorry for that and we are more than happy to clarify anything you did not understand. let us know, and we will get back to you as soon as we can! We wish you good luck! 
 
 ## :judge: Judge Panel
-- [ ] [Md. Ashiqur Rahman, Software Engineer @??](https://github.com/mdashikar)
+- [ ] [Md. Ashiqur Rahman, Software Engineer @Project Protocol @RootSoft IT](https://github.com/mdashikar)
 - [ ] [Jaber Ahmed, Software Engineer @yofoodie.co.uk](https://github.com/JABER-AHMED)
 - [ ] [Sudipto Chowdhury Dip, Software Engineer @Shohoz Ltd.](https://github.com/sudiptoChy)
 - [ ] [Ahmed Maruf, Software Engineer @Rocketing-Systems Ltd.](https://github.com/marufdevops)
